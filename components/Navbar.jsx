@@ -36,6 +36,8 @@ const Navbar = () => {
           <Image 
             src="/img/chelivery.png"
             alt='CompanyLogo' 
+            width={30}
+            height={30}
           />
 
           <li className={styles.listItem}>Events</li>
